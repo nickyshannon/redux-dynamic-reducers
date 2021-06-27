@@ -1,2 +1,2 @@
 # redux-dynamic-reducers
-Created with CodeSandbox
+Redux dynamic reducers by lazy loaded Route
